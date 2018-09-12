@@ -10,3 +10,6 @@ message = 'The price of this {0:s} laptop is {1:d} USD and the exchange rate is 
     .format('Apple', 1299, 1.235235245)
 
 print(message)
+
+message1 = '{0} is easier than {1}'.format('Python', 'Java')
+print(message1)
