@@ -25,3 +25,6 @@ print(message4)
 
 message5 = '{1} is easier than {0}'.format('Python', 'Java')
 print(message5)
+
+message6 = '{1} is easier than {0}'.format('Python', 'Java')
+print(message6)
